@@ -7,3 +7,4 @@
 稳重求速
 再试一遍
 提交修改到git版本库
+creating a new branch is quick
