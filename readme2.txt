@@ -10,4 +10,5 @@
 再次测试分支创建修改删除
 Creating a new branch is quick and simple
 vi input test.
+issue-10 bug修复测试
 分支管理策略
