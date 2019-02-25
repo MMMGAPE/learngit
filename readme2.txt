@@ -8,4 +8,4 @@
 再试一遍
 提交修改到git版本库
 再次测试分支创建修改删除
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
